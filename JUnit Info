@@ -1,0 +1,11 @@
+A framework for testing “units” in Java applications.
+
+It is part of a family of unit testing frameworks called xUnit.
+
+Became an important part on test-driven development in software.
+
+Requirements are translated in small specific test cases. 
+
+The tests grants reliability and confidence of software designs and helps to detect parts of the code that does not meet the requirements.
+
+The tests can be also used for debugging purposes
